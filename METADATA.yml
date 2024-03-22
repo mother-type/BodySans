@@ -3,6 +3,7 @@ unified_font_repository_version: "0.3"
 unified_font_repository_url: https://github.com/raphaelbastide/Unified-Font-Repository/
 typeface_family:
   name: (my) body sans
+  description: You've seen kitsch body fonts, but you haven't seen one that's literally my body. Great for resumes and businesses. If you are a corporation, please reach out directly regarding a business license.
   tags:
   - decorative
   repository_url: https://github.com/mother-type/BodySans
@@ -19,5 +20,5 @@ typeface_family:
   license: 
   - SIL Open Font License, Version 1.1
   sample_text:
-  - en_us: The quick brown fox jumps over the lazy dog
+  - en_us: The Devilish Depths Within
 ...
