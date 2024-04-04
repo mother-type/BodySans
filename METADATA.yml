@@ -1,24 +1,24 @@
 ---
-unified_font_repository_version: "0.3"
-unified_font_repository_url: https://github.com/raphaelbastide/Unified-Font-Repository/
-typeface_family:
+unified-font-repository-version: "0.3"
+unified-font-repository-url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface-family:
   name: Body Sans
   description: You've seen kitsch body fonts, but you haven't seen one that's literally my body. Great for resumes and businesses. If you are a corporation, please reach out directly regarding a business license.
   tags:
   - decorative
-  repository_url: https://github.com/mother-type/BodySans
-  project_url: https://mother-type.de/fonts/body-sans
+  repository-url: https://github.com/mother-type/BodySans
+  project-url: https://mother-type.de/fonts/body-sans
   tools:
   - Glyphs
   designer: 
   - name: printer_scanner
   - url: https://printerscanner.net
-  writing_systems: 
+  writing-systems: 
   - Latin
   published: 
   - 2023
   license: 
   - SIL Open Font License, Version 1.1
-  sample_text:
+  sample-text:
   - en_us: The Devilish Depths Within
 ...
